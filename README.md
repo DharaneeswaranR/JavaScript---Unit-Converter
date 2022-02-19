@@ -1,2 +1,2 @@
-# JavaScript---Unit-Converter
-Imperial - Metric Unit Converter
+# JavaScript-Unit-Converter
+Imperial - Metric Unit Converter using JavaScript
